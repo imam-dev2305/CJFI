@@ -1,0 +1,3 @@
+INSERT INTO cjfi.m_gudang (id_gudang, nm_gudang, alamat, status, create_by, update_by, created_at, updated_at) VALUES ('INV-001', 'Gudang Pusat', 'Jl. Kamboja, Jakarta', '1', 'USR-001', 'USR-001', null, null);
+INSERT INTO cjfi.m_gudang (id_gudang, nm_gudang, alamat, status, create_by, update_by, created_at, updated_at) VALUES ('INV-002', 'Gudang Cibubur', 'Jl. Cibubur, Jakarta Timur', '1', 'USR-001', 'USR-001', null, null);
+INSERT INTO cjfi.m_gudang (id_gudang, nm_gudang, alamat, status, create_by, update_by, created_at, updated_at) VALUES ('INV-003', 'Gudang Cibitung', 'KM 2100', '0', 'USR-001', 'USR-001', null, null);

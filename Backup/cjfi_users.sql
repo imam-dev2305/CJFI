@@ -1,0 +1,1 @@
+INSERT INTO cjfi.users (id_user, name, email, email_verified_at, password, remember_token, created_at, updated_at) VALUES ('USR-001', 'Imam', 'imam.aja@gmail.com', null, '$2y$10$tbfn3Ue/6vFBiDSBM5yrnuIt/7nv/uSZ9/UFbJqo5AFLPIav9nNhy', null, null, null);

@@ -1,0 +1,3 @@
+INSERT INTO cjfi.m_barang (id_barang, nm_barang, merk, create_by, update_by, created_at, updated_at) VALUES ('YUAPF01', 'YTZ9BS', 'Yuasa', 'USR-001', 'USR-001', null, null);
+INSERT INTO cjfi.m_barang (id_barang, nm_barang, merk, create_by, update_by, created_at, updated_at) VALUES ('YUAPF02', 'YTZ7S', 'Yuasa', 'USR-001', 'USR-001', null, null);
+INSERT INTO cjfi.m_barang (id_barang, nm_barang, merk, create_by, update_by, created_at, updated_at) VALUES ('YUAPF03', 'YTZ8V', 'Yuasa', 'USR-001', 'USR-001', null, null);
